@@ -1,0 +1,9 @@
+D:\MarHazK\pics\logo\tera\package\Tera_Launcher_Source_1725\TeraLauncher\obj\Debug\TeraLauncher.LoginForm.resources
+D:\MarHazK\pics\logo\tera\package\Tera_Launcher_Source_1725\TeraLauncher\obj\Debug\TeraLauncher.RegisterForm.resources
+D:\MarHazK\pics\logo\tera\package\Tera_Launcher_Source_1725\TeraLauncher\obj\Debug\TeraPatcher.csproj.GenerateResource.Cache
+D:\MarHazK\pics\logo\tera\package\Tera_Launcher_Source_1725\build\TeraPatcher.exe.config
+D:\MarHazK\pics\logo\tera\package\Tera_Launcher_Source_1725\build\TeraPatcher.exe
+D:\MarHazK\pics\logo\tera\package\Tera_Launcher_Source_1725\build\TeraPatcher.pdb
+D:\MarHazK\pics\logo\tera\package\Tera_Launcher_Source_1725\TeraLauncher\obj\Debug\TeraPatcher.Properties.Resources.resources
+D:\MarHazK\pics\logo\tera\package\Tera_Launcher_Source_1725\TeraLauncher\obj\Debug\TeraPatcher.exe
+D:\MarHazK\pics\logo\tera\package\Tera_Launcher_Source_1725\TeraLauncher\obj\Debug\TeraPatcher.pdb

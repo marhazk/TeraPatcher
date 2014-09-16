@@ -1,0 +1,11 @@
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\bin\Release\TeraLauncher.exe.config
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\bin\Release\TeraLauncher.exe
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\bin\Release\TeraLauncher.pdb
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\bin\Release\Newtonsoft.Json.dll
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\bin\Release\Newtonsoft.Json.xml
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\obj\Release\TeraLauncher.Form1.resources
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\obj\Release\TeraLauncher.Properties.Resources.resources
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\obj\Release\TeraLauncher.Splash.resources
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\obj\Release\TeraLauncher.csproj.GenerateResource.Cache
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\obj\Release\TeraLauncher.exe
+c:\users\asusg75vw\documents\visual studio 2012\Projects\TeraLauncher\TeraLauncher\obj\Release\TeraLauncher.pdb
